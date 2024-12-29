@@ -1,12 +1,3 @@
-<!--
-    Hey there, I'm Zahid Khan!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
@@ -16,7 +7,7 @@
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
-
+![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
