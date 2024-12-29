@@ -54,10 +54,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 You can find my technical skills on Stack Overflow where I've reached out to 2M People worldwide, where I share career insights, tips, and my knowledge and experience in tech.
 I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-Check out my latest post 👇<br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Medium Article">
-  </a>
+
 <br>
 
 <!--
