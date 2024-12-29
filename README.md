@@ -18,12 +18,10 @@
 -->
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<!--
-     My mission, because I'm a superhero!
--->
+
 
 ### My mission
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
