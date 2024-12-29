@@ -7,6 +7,7 @@
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
+---
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
