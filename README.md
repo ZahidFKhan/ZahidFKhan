@@ -1,5 +1,5 @@
 <!--
-    Hey there, I'm Daria Stanilevici!
+    Hey there, I'm Zahid Khan!
     Happy to see you here exploring my README code
     Feel free to inspire!
     
@@ -10,7 +10,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Zahid+Khan;Sr.+Software+Engineer" alt="Software Engineer"/>
 </a>
 
 <!--
@@ -33,10 +33,10 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=regex,latex,linux,maven,mint,postman,github,git,intellij,mongodb,mysql,eclipse,java,spring,jenkins,cpp,cs,html5,css,bootstrap,php,ps,)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
