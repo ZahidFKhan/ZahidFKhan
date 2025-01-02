@@ -19,7 +19,7 @@
 ### Skills:
 
 #### Primary Skill: 
-[![Skills](https://skillicons.dev/icons?i=java,spring,jenkins,regex,maven,postman,github,intellij)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,jenkins,regex,maven,postman,github,docker)](https://skillicons.dev)
 
 #### Others: 
 
@@ -27,7 +27,7 @@
 
 #### Operating System:
 
-[![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mint,linux)](https://skillicons.dev)
 
 #### Studying:
 
@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
   <a href="https://stackoverflow.com/users/6073148/zahid-khan">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" target="_blank" alt="Dev.to">
   </a>
 </div>
 
