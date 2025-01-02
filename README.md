@@ -15,22 +15,24 @@
 
 
 
-### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
+### Skills:
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=regex,latex,linux,maven,mint,postman,github,git,intellij,mongodb,mysql,eclipse,java,spring,jenkins,cpp,cs,html5,css,bootstrap,php,ps,)](https://skillicons.dev)
+#### Primary Skill: 
+[![Skills](https://skillicons.dev/icons?i=java,spring,jenkins,regex,maven,postman,github,intellij)](https://skillicons.dev)
 
-### Studying
+#### Others: 
+
+[![My Skills](https://skillicons.dev/icons?i=regex,cpp,cs,css,bootstrap,ps)](https://skillicons.dev)
+
+#### Operating System:
+
+[![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
+
+#### Studying:
+
 [![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
 
 ### Publications
 <div>
@@ -42,14 +44,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </a>
 </div>
 
-You can find my technical skills on Stack Overflow where I've reached out to 2M People worldwide, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-
 <br>
-
-<!--
-     Fast links to my socials!
--->
 
 ### Connect with me!
 <div>
